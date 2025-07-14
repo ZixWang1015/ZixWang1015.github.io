@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 1st year PhD student at the EIC College of Huazhong University of Science and Technology (HUST-EIC), supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University (CCNU) in 2022.
+I am currently a 1st year PhD student at the EIC College of Huazhong University of Science and Technology (HUST-EIC), supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io) and Prof. [Wei Liu](https://faculty.hust.edu.cn/wliu/zh_CN/index.htm). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University (CCNU) in 2022.
 
 What's New
 ------
