@@ -8,5 +8,5 @@ venue: 'Published in Findings of 63rd Annual Meeting ofthe Association for Compu
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-Lishuai Hou, Zixiong Wang, Gaoyang Liu, Chen Wang, Wei Liu, Kai Peng.
+Citation: 'Lishuai Hou, Zixiong Wang, Gaoyang Liu, Chen Wang, Wei Liu, Kai Peng.'
 ---
