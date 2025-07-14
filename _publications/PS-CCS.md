@@ -1,5 +1,5 @@
 ---
-title: "Prototype surgery: Taloring Neural prototypes via sof Labels for Eficient
+title: "Prototype Surgery: Taloring Neural Prototypes via soft Labels for Efficient
 Machine Unlearning."
 collection: publications
 category: conferences
