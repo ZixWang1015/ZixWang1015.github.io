@@ -5,5 +5,5 @@ collection: publications
 category: manuscripts
 date: 2023
 venue: 'IEEE Transactions on Information Forensics and Security (IEEE T-IFS).'
-bibtexurl: 'http://academicpages.github.io/files/bibtex3.bib'
+bibtexurl: 'http://ZixWang1015.github.io/files/bibtex1.bib'
 ---
