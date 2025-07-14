@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ------
-I am a PhD student at the Huazhong University of Science and Technology, supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University.
+I am a 1st year PhD student at the EIC College of Huazhong University of Science and Technology, supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University.
 
 What's New
 ------
