@@ -7,5 +7,5 @@ venue: 'Findings of 63rd Annual Meeting of the Association for Computational Lin
 date: 2025-05
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-Citation: 'Lishuai Hou, **Zixiong Wang**, Gaoyang Liu, Chen Wang, Wei Liu, Kai Peng.'
+Citation: 'Lishuai Hou, *Zixiong Wang*, Gaoyang Liu, Chen Wang, Wei Liu, Kai Peng.'
 ---
