@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Representation of Training Data With Adversarial Examples Supporting
+title: "Knowledge Representation of Training Data with Adversarial Examples Supporting
 Decision Boundary"
 collection: publications
 category: manuscripts
