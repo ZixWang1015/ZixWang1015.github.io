@@ -7,4 +7,5 @@ excerpt: 'Gaoyang Liu, Tianlong Xu, Rui Zhang, **Zixiong Wang**, Chen Wang, Ling
 date: 2024-10-01
 venue: 'IEEE Transactions on Information Forensics and Security (IEEE T-IFS)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'https://ieeexplore.ieee.org/document/10285881'
 ---
