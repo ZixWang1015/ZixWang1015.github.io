@@ -28,7 +28,7 @@ My Research  Areas
 
 More Info
 ------
-Feel free to contact me if you feel my works inspiring or interesting, my email address is [zixwang@hust.edu.cn].
+Feel free to contact me if you feel my works inspiring or interesting, my email address is <zixwang@hust.edu.cn>.
 My working area is at the East 17 building of Huazhong University of Science and Technology, C309 office.
 
 Hope to make more friends!
