@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 1st year PhD student at the EIC College of Huazhong University of Science and Technology (HUST-EIC), supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io) and Prof. [Wei Liu](https://faculty.hust.edu.cn/wliu/zh_CN/index.htm). Previously, I worked as an NLP researcher student, focusing on LLM data privacy and security issues. I received my Bachelor's degree from Central China Normal University (CCNU) in 2022.
+I am currently a 1st year PhD student at the School of Electronic Information and Communications ([EIC](http://ei.hust.edu.cn/)) of Huazhong University of Science and Technology ([HUST](http://www.hust.edu.cn/)), supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io) and Prof. [Wei Liu](https://faculty.hust.edu.cn/wliu/zh_CN/index.htm). 
+I received my Bachelor's degree from Central China Normal University ([CCNU](https://www.ccnu.edu.cn/)) in 2022.
+Previously, I work as an NLP researcher student, focusing on data privacy and security issues of LLMs and LLM Applications and Agents.
 
 What's New
 ------
@@ -26,7 +28,7 @@ My Research  Areas
 
 More Info
 ------
-Feel free to contact me if you feel my works inspiring or interesting, my email address is [here](zixwang@hust.edu.cn).
+Feel free to contact me if you feel my works inspiring or interesting, my email address is [zixwang@hust.edu.cn].
 My working area is at the East 17 building of Huazhong University of Science and Technology, C309 office.
 
 Hope to make more friends!
