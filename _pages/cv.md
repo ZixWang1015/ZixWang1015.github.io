@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in EIC College, Huazhong University of Science and Technology, 2025-2029 (expected)
-* M.S. in EIC College, Huazhong University of Science and Technology, 2022-2025
-* B.S. in PST College, Central China Normal University, 2018-2022
+* Ph.D in EIC School, Huazhong University of Science and Technology (HUST), 2025-2029 (expected)
+* M.S. in EIC School, Huazhong University of Science and Technology (HUST), 2022-2025
+* B.S. in PST School, Central China Normal University (CCNU), 2018-2022
 
 Work experience
 ======
