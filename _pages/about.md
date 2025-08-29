@@ -13,6 +13,8 @@ Previously, I work as an NLP researcher student, focusing on data privacy and se
 
 What's New
 ------
+- [8/2025] My teammates and me participate in the [Challenge Cup 2025 Games](https://2025.tiaozhanbei.net/)! You can get a brief understanding of our project [here](https://github.com/EnCurryAge/Yolo-Adv).
+
 - [5/2025] Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [ACL 2025 Findings](https://2025.aclweb.org/) !
 
 - [3/2025] Our paper "Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning" got accepted in [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/) !
