@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 1st year PhD student at the School of Electronic Information and Communications ([EIC](http://ei.hust.edu.cn/)) of Huazhong University of Science and Technology ([HUST](http://www.hust.edu.cn/)), supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io) and Prof. [Wei Liu](https://faculty.hust.edu.cn/wliu/zh_CN/index.htm). 
+I am currently a 1st year PhD student jointly trained by Huazhong University of Science and Technology ([HUST](http://www.hust.edu.cn/)) and PKU-Wuhan Institute for Artificial Intelligence([北京大学武汉人工智能研究院](http://whai.pku.edu.cn/index.htm)).
+I am working at the School of Electronic Information and Communications ([EIC](http://ei.hust.edu.cn/)), supervised by Prof. [Gaoyang Liu](https://gyliu1991.github.io) and Prof. [Wei Liu](https://faculty.hust.edu.cn/wliu/zh_CN/index.htm). 
 I received my Bachelor's degree from Central China Normal University ([CCNU](https://www.ccnu.edu.cn/)) in 2022.
 Previously, I work as an NLP researcher student, focusing on data privacy and security issues of LLMs and LLM Applications and Agents.
 
