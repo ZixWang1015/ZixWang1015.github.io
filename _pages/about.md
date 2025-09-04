@@ -12,7 +12,7 @@ I am working at the School of Electronic Information and Communications ([EIC](h
 I received my Bachelor's degree from Central China Normal University ([CCNU](https://www.ccnu.edu.cn/)) in 2022.
 Previously, I work as an NLP researcher student, focusing on data privacy and security issues of LLMs and LLM Applications and Agents.
 
-What's New
+What's New 🔥
 ------
 - [8/2025] My teammates and me participated in the [Challenge Cup 2025 Games](https://2025.tiaozhanbei.net/) ! You can get a brief understanding of our project [here](https://github.com/EnCurryAge/Yolo-Adv).
 
@@ -22,14 +22,14 @@ What's New
 
 - [11/2024] Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [Arxiv](https://arxiv.org/abs/2411.11424) !
 
-My Research  Areas
+My Research Areas 🔍
 ------
 - Privacy risks and Data Security Protection of Large Language Models
 - Membership Inference Attacks on ML models
 - Training Data Extraction or Recovering on LLMs
 - Security of Large Reasoning Models and LLM Agents
 
-More Info
+More Info 📧
 ------
 Feel free to contact me if you feel my works inspiring or interesting, my email address is <zixwang1015@hust.edu.cn>.
 My working area is at the East#17 building of Huazhong University of Science and Technology, C309 office.
