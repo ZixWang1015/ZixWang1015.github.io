@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zixiong Wang - PhD Student in HUST EIC"
+title: "Zixiong Wang (王子雄)"
 author_profile: true
 redirect_from: 
   - /about/
