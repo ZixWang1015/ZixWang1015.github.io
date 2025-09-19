@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me - Zixiong Wang (王子雄)"
+title                    : "Zixiong Wang (王子雄)"
 title_separator          : "-"
 name                     : &name "Zixiong Wang"
 description              : &description "personal description"
