@@ -14,7 +14,7 @@ Previously, I work as an NLP researcher student, focusing on data privacy and se
 
 What's New 🔥
 ------
-- **[10/2025]** My teammates and me participated in the [Challenge Cup 2025 Games](https://2025.tiaozhanbei.net/) ! We won the **Grand Prize** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉 !
+- **[10/2025]** My teammates and me participated in the [Challenge Cup 2025 Games (2025“挑战杯-揭榜挂帅”擂台赛)](https://2025.tiaozhanbei.net/) ! We won the **Grand Prize** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉 !
 
 - **[5/2025]** Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/) !
 
