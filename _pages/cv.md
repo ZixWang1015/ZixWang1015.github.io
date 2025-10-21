@@ -35,5 +35,4 @@ Publications
   
 Competition Experience
 ======
-* The Challenge Cup 2025 games (Team Leader)
-* The “Eagle Eye Operation” National Intelligent Algorithm 2025 Competition (Team Member)
+* The Challenge Cup 2025 games (Team Leader). **Grand Prize** in the SH-04 track @Shanghai.
