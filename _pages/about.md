@@ -14,9 +14,7 @@ Previously, I work as an NLP researcher student, focusing on data privacy and se
 
 What's New 🔥
 ------
-- [10/2025] My teammates and me participated in the [“Eagle Eye Operation” National Intelligent Algorithm 2025 Competition](http://competition-saa.c2.org.cn/home) ! You can get a brief understanding of our project here.
-
-- [8/2025] My teammates and me participated in the [Challenge Cup 2025 Games](https://2025.tiaozhanbei.net/) ! You can get a brief understanding of our project [here](https://github.com/EnCurryAge/Yolo-Adv).
+- [10/2025] My teammates and me participated in the [Challenge Cup 2025 Games](https://2025.tiaozhanbei.net/) ! We won the **Grand Prize** in AI Track @Shanghai (ranked 2nd in the SH-O4 track). Congratulations🎉 !
 
 - [5/2025] Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [ACL 2025 Findings](https://2025.aclweb.org/) !
 
