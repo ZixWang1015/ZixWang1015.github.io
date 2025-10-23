@@ -14,13 +14,13 @@ Previously, I work as an NLP researcher student, focusing on data privacy and se
 
 What's New 🔥
 ------
-- **[10/2025]** My teammates and me participated in the **Challenge Cup 2025 Games (2025“挑战杯-揭榜挂帅”擂台赛)**! We won the **Grand Prize** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉 !
+- **[10/2025]** My teammates and me participated in the **Challenge Cup 2025 Games (2025“挑战杯-揭榜挂帅”擂台赛)**! We won the **Grand Prize** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉
 
-- **[5/2025]** Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/) !
+- **[5/2025]** Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/)🎉
 
-- **[3/2025]** Our paper "Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning" got accepted in [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/) !
+- **[3/2025]** Our paper "Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning" got accepted in [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)🎉
 
-- **[11/2024]** Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [Arxiv](https://arxiv.org/abs/2411.11424) !
+- **[11/2024]** Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [Arxiv](https://arxiv.org/abs/2411.11424)🎉
 
 My Research Areas 🔍
 ------
