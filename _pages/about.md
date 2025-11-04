@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 1st year PhD student jointly trained by Huazhong University of Science and Technology ([**HUST**](http://www.hust.edu.cn/)) and PKU-Wuhan Institute for Artificial Intelligence ([**Whai-PKU**](http://whai.pku.edu.cn/index.htm)).
-I am working at the School of Electronic Information and Communications ([EIC](http://ei.hust.edu.cn/)), supervised by Prof. [**Gaoyang Liu**](https://gyliu1991.github.io). 
-I received my Bachelor's degree from Central China Normal University ([**CCNU**](https://www.ccnu.edu.cn/)) in 2022.
-Previously, I work as an NLP researcher student, focusing on data privacy and security issues of LLMs and relevant applications (Reasoning, long-context modeling, and Agent).
+- I am currently a 1st year PhD student jointly trained by Huazhong University of Science and Technology ([**HUST**](http://www.hust.edu.cn/)) and PKU-Wuhan Institute for Artificial Intelligence ([**Whai-PKU**](http://whai.pku.edu.cn/index.htm)).
+- I am working at the School of Electronic Information and Communications ([**EIC**](http://ei.hust.edu.cn/)), supervised by Prof. [**Gaoyang Liu**](https://gyliu1991.github.io). 
+- Before that, I have received my Bachelor's degree from Central China Normal University ([**CCNU**](https://www.ccnu.edu.cn/)) in 2022.
+- Previously, I work as an NLP researcher student, focusing on data privacy and security issues of LLMs and relevant applications (e.g., long-context modeling, **Reasoning**, and **Agent System**).
 
 What's New 🔥
 ------
@@ -20,7 +20,7 @@ What's New 🔥
 
 - **[3/2025]** Our paper "Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning" got accepted in [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)🎉
 
-- **[11/2024]** Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [Arxiv](https://arxiv.org/abs/2411.11424)🎉
+- **[11/2024]** Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [**Arxiv**](https://arxiv.org/abs/2411.11424)🎉
 
 My Research Areas 🔍
 ------
@@ -31,9 +31,9 @@ My Research Areas 🔍
 
 More Info 📧
 ------
-Feel free to contact me if you feel my works inspiring or interesting, my email address is <zixwang1015@hust.edu.cn>.
-My working area is at the East#17 building of Huazhong University of Science and Technology, C309 office. The Github page of our HUST EIC Trustworthy AI Lab is <https://github.com/SPHelixLab>.
-
-Hope to make more friends!
+- Feel free to contact me if you feel my works inspiring or interesting, my email address is <zixwang1015@hust.edu.cn>.
+- My working area is at the East#17 building of Huazhong University of Science and Technology, C309 office.
+- The Github page of our HUST EIC Trustworthy AI Lab is <https://github.com/SPHelixLab>.
+- Hope to make more friends!
 
 
