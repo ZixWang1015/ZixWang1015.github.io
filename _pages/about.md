@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi~ I am Zixiong Wang (王子雄) 🐻
 - I am currently a 1st year PhD student jointly trained by Huazhong University of Science and Technology ([**HUST**](http://www.hust.edu.cn/)) and PKU-Wuhan Institute for Artificial Intelligence ([**Whai-PKU**](http://whai.pku.edu.cn/index.htm)).
-- I am working at the School of Electronic Information and Communications ([**EIC**](http://ei.hust.edu.cn/)), supervised by Prof. [**Gaoyang Liu**](https://gyliu1991.github.io). 
+- I am working at the School of Electronic Information and Communications ([**EIC**](http://ei.hust.edu.cn/)), supervised by Prof. [**Gaoyang Liu**](http://faculty.hust.edu.cn/LiuGaoyang/zh_CN/tzybd/2616394/list/index.htm). 
 - Before that, I have received my Bachelor's degree from Central China Normal University ([**CCNU**](https://www.ccnu.edu.cn/)) in 2022.
 - Previously, I work as an NLP researcher student, focusing on data privacy and security issues of LLMs and relevant applications (e.g., long-context modeling, **Reasoning**, and **Agent System**).
 
