@@ -16,7 +16,7 @@ What's New 🔥
 ------
 - **[11/2025]** Our paper "Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space" got accepted in [**ACM SIGKDD**](https://kdd2026.kdd.org/)🎉 Sincere appreciations to Dr. Tianlong Xu💝
 
-- **[10/2025]** My teammates and me participated in the **Challenge Cup 2025 Games (2025“挑战杯-揭榜挂帅”擂台赛)**! We won the **Grand Prize** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉
+- **[10/2025]** My teammates and me participated in the **Challenge Cup 2025 Games (2025“挑战杯-揭榜挂帅”擂台赛)**! We won the **Grand Prize** **(国赛特等奖)** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉
 
 - **[5/2025]** Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/)🎉
 
