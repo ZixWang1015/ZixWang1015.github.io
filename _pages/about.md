@@ -14,7 +14,7 @@ Hi~ I am Zixiong Wang (王子雄) 🐻
 
 What's New 🔥
 ------
-- **[11/2025]** Our paper "Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space" got accepted in [**ACM SIGKDD 2025**](https://kdd2026.kdd.org/)🎉
+- **[11/2025]** Our paper "Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space" got accepted in [**ACM SIGKDD 2026**](https://kdd2026.kdd.org/)🎉
 
   Sincere appreciations to Dr. **Tianlong Xu**~ 💝
 
