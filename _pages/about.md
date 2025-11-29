@@ -22,7 +22,11 @@ What's New 🔥
 
 - **[5/2025]** Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/)🎉
 
+  Sincere appreciations to Dr. **Lishuai Hou**~ 💝
+
 - **[3/2025]** Our paper "Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning" got accepted in [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)🎉
+
+  Sincere congratulations to Dr. **Xijie Wang**~ 💝
 
 - **[11/2024]** Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [**Arxiv**](https://arxiv.org/abs/2411.11424)🎉
 
