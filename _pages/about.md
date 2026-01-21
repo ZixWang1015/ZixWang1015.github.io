@@ -35,7 +35,7 @@ My Research Areas 🔍
 - Privacy risks and Data Security Protection of Large Language Models
 - Membership Inference Attacks on ML models
 - Training Data Extraction or Recovering on LLMs
-- Model/Data Watermark & Figerprint of LLMs
+- Model/Data Watermark & Fingerprint of LLMs
 - Security of Large Reasoning Models and LLM Agents
 
 More Info 📧
