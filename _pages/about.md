@@ -14,27 +14,28 @@ Hi~ I am Zixiong Wang (王子雄) 🐻
 
 What's New 🔥
 ------
-- **[11/2025]** Our paper "Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space" got accepted in [**ACM SIGKDD 2026**](https://kdd2026.kdd.org/)🎉
+- **[11/2025]** Our paper "*Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space*" got accepted in [**ACM SIGKDD 2026**](https://kdd2026.kdd.org/)🎉
 
   Sincere appreciations to Dr. **Tianlong Xu**~ 💝
 
 - **[10/2025]** My teammates and me participated in the **Challenge Cup 2025 Games (2025“挑战杯-揭榜挂帅”擂台赛)**! We won the **Grand Prize** **(国赛特等奖)** in AI Special Track @Shanghai (ranked 2nd in the SH-04 track). Congratulations🎉
 
-- **[5/2025]** Our paper "Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/)🎉
+- **[5/2025]** Our paper "*Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning for Large Language Models*" got accepted in [**ACL 2025 Findings**](https://2025.aclweb.org/)🎉
 
   Sincere appreciations to Dr. **Lishuai Hou**~ 💝
 
-- **[3/2025]** Our paper "Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning" got accepted in [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)🎉
+- **[3/2025]** Our paper "*Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient Machine Unlearning*" got accepted in [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)🎉
 
   Sincere congratulations to Dr. **Xijie Wang**~ 💝
 
-- **[11/2024]** Our preprint paper "Membership Inference Attack against Long-Context Large Language Models" has been released to [**Arxiv**](https://arxiv.org/abs/2411.11424)🎉
+- **[11/2024]** Our preprint paper "*Membership Inference Attack against Long-Context Large Language Models*" has been released to [**Arxiv**](https://arxiv.org/abs/2411.11424)🎉
 
 My Research Areas 🔍
 ------
 - Privacy risks and Data Security Protection of Large Language Models
 - Membership Inference Attacks on ML models
 - Training Data Extraction or Recovering on LLMs
+- Model/Data Watermark & Figerprint of LLMs
 - Security of Large Reasoning Models and LLM Agents
 
 More Info 📧
