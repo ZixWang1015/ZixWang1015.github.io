@@ -14,6 +14,8 @@ Hi~ I am Zixiong Wang (王子雄) 🐻
 
 What's New 🔥
 ------
+<div style="height: 300px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px;">
+
 - **[5/2026]** Our Paper *"Fingerprinting Pre-trained Encoders under Arbitary Downstream Fine-tuning via Adversarial Shifting"* got accepted in [**ICML 2026**](https://icml.cc/Conferences/2026)🎉
 
   Sincere appreciations to Dr. **Tianlong Xu**~ 💝
@@ -33,6 +35,8 @@ What's New 🔥
   Sincere congratulations to Dr. **Xijie Wang**~ 💝
 
 - **[11/2024]** Our preprint paper "*Membership Inference Attack against Long-Context Large Language Models*" has been released to [**Arxiv**](https://arxiv.org/abs/2411.11424)🎉
+
+</div>
 
 My Research Areas 🔍
 ------
