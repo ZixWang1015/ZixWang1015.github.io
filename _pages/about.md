@@ -14,6 +14,10 @@ Hi~ I am Zixiong Wang (王子雄) 🐻
 
 What's New 🔥
 ------
+- **[5/2026]** Our Paper *"Fingerprinting Pre-trained Encoders under Arbitary Downstream Fine-tuning via Adversarial Shifting"* got accepted in [ICML 2026](https://icml.cc/Conferences/2026)🎉
+
+  Sincere appreciations to Dr. **Tianlong Xu**~ 💝
+
 - **[11/2025]** Our paper "*Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples in Model-Parameter Space*" got accepted in [**ACM SIGKDD 2026**](https://kdd2026.kdd.org/)🎉
 
   Sincere appreciations to Dr. **Tianlong Xu**~ 💝
