@@ -14,7 +14,7 @@ Hi~ I am Zixiong Wang (王子雄) 🐻
 
 What's New 🔥
 ------
-<div style="height: 300px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px;">
+<div style="height: 300px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px;" markdown="1">
 
 - **[5/2026]** Our Paper *"Fingerprinting Pre-trained Encoders under Arbitary Downstream Fine-tuning via Adversarial Shifting"* got accepted in [**ICML 2026**](https://icml.cc/Conferences/2026)🎉
 
