@@ -14,7 +14,7 @@ Hi~ I am Zixiong Wang (王子雄) 🐻
 
 What's New 🔥
 ------
-<div style="height: 300px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px;" markdown="1">
+<div style="height: 400px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px; border-radius: 6px;" markdown="1">
 
 - **[8/2026]** Our Paper *"Black-Box Membership Inference Attacks against Contrastive Learning via Aggressive Data Augmentations"* got accepted in [**IEEE TDSC**](https://mc.manuscriptcentral.com/tdsc-cs)🎉
 
