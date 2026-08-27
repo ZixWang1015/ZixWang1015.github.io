@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: 'Zehao Tian, **Zixiong Wang**, Ahmed M. Abdelmoniem, Gaoyang Liu, Chen Wang.'
 date: 2023-10-01
-venue: 'IEEE Transactions on Information Forensics and Security (IEEE T-IFS)'
+venue: 'IEEE Transactions on Information Forensics and Security (IEEE TIFS)'
 paperurl: 'https://ieeexplore.ieee.org/document/10175589'
 bibtexurl: 'http://academicpages.github.io/files/bibtex2.bib'
 ---
